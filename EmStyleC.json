@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "estmusic",
+        "name": "EmStyleC",
+        "version": "4.5",
+        "license": "EMEdit"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/EstMusicX\/Wallpapers\/main\/738272936258329.gif"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 838860800,
+        "background": 0,
+        "accent": -2490290,
+        "statusbar": -65536
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
